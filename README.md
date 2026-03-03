@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**talha123321/talha123321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Talha, a software developer focused on AI-driven systems and scalable digital products.
 
-Here are some ideas to get you started:
+I develop scalable solutions using Flutter and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea challenges me, I turn it into code and ship it.
+
+My main stack is Flutter, Firebase, REST APIs, and modern web technologies — with a growing obsession for AI integration and intelligent automation.
+
+I enjoy building real-world solutions where software meets intelligence.
+
+Fun Facts:
+
+Obsessed with AI and emerging tech
+
+I prefer clean architecture over quick hacks.
